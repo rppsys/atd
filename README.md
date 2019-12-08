@@ -16,7 +16,7 @@ Se mesmo assim voê quiser usar o Windows faz o seguinte:
     
 É sério, vai te poupar muito trabalho.  Baixa lá o:
 
-https://www.virtualbox.org/
+>https://www.virtualbox.org/
 
 E instala o Ubuntu nele.    
 
@@ -32,7 +32,7 @@ Essa será sua pasta principal de programação.
 
 #### 2 - Instale agora o ambiente virtualenv
 
-https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
+>https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
 
 Os comandos serão:
 
@@ -93,9 +93,9 @@ No final sua pasta de trabalho será algo como:
 O jupyter-notebook é uma forma muito interessante de fazer testes em Python pq ele 
 permite escrever e rodar códigos direto no Browser.
 
-https://jupyter.org/
+>https://jupyter.org/
 
-https://jupyter.org/install.html
+>https://jupyter.org/install.html
 
 O comando que você digitará dentro da sua Virutal Env será:
 
@@ -122,7 +122,7 @@ Vamos testa-lo.
     
 Ele vai iniciar o jupyter e pedir pra vc abrir esse link. Abra-o:
 
-http://localhost:8888
+>http://localhost:8888
 
 #### 2 - Crie seu primeiro ipynb
 
@@ -132,7 +132,7 @@ Ele vai criar e haverá um quadro pra vc digitar o código Python
 
 Para testar copie e cole esses comandos abaixo:
 
-https://docs.bokeh.org/en/latest/docs/user_guide/quickstart.html#userguide-quickstart
+>https://docs.bokeh.org/en/latest/docs/user_guide/quickstart.html#userguide-quickstart
 
     from bokeh.plotting import figure, output_file, show
 
