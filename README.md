@@ -154,7 +154,14 @@ https://docs.bokeh.org/en/latest/docs/user_guide/quickstart.html#userguide-quick
 
 O bokeh é um pacote que permite criar visualizações de dados em python. 
 
-### Seu laboratório está criado! Explore as ferramentas e os link.
+Ele deverá abrir um plot numa nova aba do seu browser.
+
+### Seu laboratório está criado! Explore as ferramentas e os links que postei.
+
+O próximo passo será abrir um arquivo CSV e criar um gráfico de candlestick a partir dele.
+
+
+
 
 
 
