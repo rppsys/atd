@@ -124,6 +124,37 @@ Ele vai iniciar o jupyter e pedir pra vc abrir esse link. Abra-o:
 
 http://localhost:8888
 
+#### 2 - Crie seu primeiro ipynb
+
+Vá em NEW e peça para criar seu primeiro Python3
+
+Ele vai criar e haverá um quadro pra vc digitar o código Python
+
+Para testar copie e cole esses comandos abaixo:
+
+https://docs.bokeh.org/en/latest/docs/user_guide/quickstart.html#userguide-quickstart
+
+    from bokeh.plotting import figure, output_file, show
+
+    # prepare some data
+    x = [1, 2, 3, 4, 5]
+    y = [6, 7, 2, 4, 5]
+    
+    # output to static HTML file
+    output_file("lines.html")
+    
+    # create a new plot with a title and axis labels
+    p = figure(title="simple line example", x_axis_label='x', y_axis_label='y')
+    
+    # add a line renderer with legend and line thickness
+    p.line(x, y, legend="Temp.", line_width=2)
+    
+    # show the results
+    show(p)
+
+O bokeh é um pacote que permite criar visualizações de dados em python. 
+
+### Seu laboratório está criado! Explore as ferramentas e os link.
 
 
 
