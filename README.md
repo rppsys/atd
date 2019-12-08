@@ -6,3 +6,5 @@ No Windows dá um trabalho maior, mas se você quiser usar Windows, instale o Vi
 
 
 1. Instalar o virtual env
+
+Teste
