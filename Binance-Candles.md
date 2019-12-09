@@ -9,7 +9,7 @@ de criptoativos da exchange binance:
 
 https://www.binance.com/en
 
-O arquivo **apiBINANCE.py** é responsável por trazer os dados
+O arquivo **apiBINANCE.py** é responsável por acessar a API da Binance e puxar os dados;
 
 O arquivo **criptoPLOT.py** usa a **apiBINANCE.py** para fazer a plotagem dos gráficos de candlestick 
 e também de algumas médias móveis.
@@ -25,7 +25,6 @@ O arquivo **Candlestick.ipynb** é um jupyter-notebook que mostra como usar os a
  traçar diversas médias móveis. 
  
  Veja o código para entender como isso é feito.
- 
  
  ##### Voltar para a página inicial em: 
  
