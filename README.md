@@ -156,11 +156,25 @@ O bokeh é um pacote que permite criar visualizações de dados em python.
 
 Ele deverá abrir um plot numa nova aba do seu browser.
 
-### Seu laboratório está criado! Explore as ferramentas e os links que postei.
+### Seu laboratório está criado! 
 
-O próximo passo será abrir um arquivo CSV e criar um gráfico de candlestick a partir dele.
+Explore as ferramentas e os links que postei.
+
+# Projetinhos já desenvolvidos
 
 
+## Gerador de candlesticks da binance
+
+Acesse o arquivo:
+
+https://github.com/rppsys/atd/blob/master/Binance-Candles.md
+
+
+# Próximos objetivos 
+
+## Gerador de candlesticks de um arquivo CSV
+
+Quero criar os gráficos de candle e médias móveis a partir da leitura de um arquivo CSV
 
 
 
